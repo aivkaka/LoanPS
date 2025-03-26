@@ -1,0 +1,2 @@
+UseCaseModel LoanPS {Service LoanPSSystem {} Service ThirdPartyServices {}}
+DomainModel LoanPS {}
